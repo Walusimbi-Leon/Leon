@@ -40,7 +40,7 @@
 <html>
  <body>
   <h2>March 19, 2025 — 21453<h2>
-  <h3>Mimo<h3><br>
+  <h3>Mimo<h3>
   <p>Still under treatment</p>
  </body>
 </html>
