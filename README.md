@@ -60,3 +60,13 @@
   <p>Still skick</h3>
  </body>
 </html>
+<!doctype html>
+<html>
+ <body>
+  <h2>March 29, 2025 — 21443</h2>
+  <h3>Mimo</h3>
+  <p>An element is what we call the opening tag, closing tag, and code in between.</p>
+  <p>To create a webpage, you'll need an opening and closing HTML tag.</p>
+  <p>The Html and body elements form the structure of a webpage. We place elements we want to display inside of the body.</p>
+ </body>
+</html>
