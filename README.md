@@ -70,3 +70,17 @@
   <p>The Html and body elements form the structure of a webpage. We place elements we want to display inside of the body.</p>
  </body>
 </html>
+<!doctype html>
+<html>
+ <body>
+  <h2>March 30, 2025 — 21442</h2>
+  <h3>Mimo</h3>
+  <p>The head HTML element, <head></head>, is a container for information about a webpage, like its title. It goes before the body tag.
+<html>
+ <head>
+ </head>
+<body>
+ <h1>My favorite things</h1>
+ <p>Raindrops on <em>roses</em><br>Whiskers on <strong>kittens</strong></p>
+</body>
+</html>
