@@ -84,3 +84,11 @@
  <p>Raindrops on <em>roses</em><br>Whiskers on <strong>kittens</strong></p>
 </body>
 </html>
+<!doctype html>
+<html>
+ <body>
+  <h2>March 31, 2025 — 21441</h2>
+  <h3>Mimo</h3>
+  <p>The <strong>doctype</strong> tells the web browser what version of HTML we're using. Without it, the browser might not display the page correctly. <br>Since we're using the latest versio, we use <!doctype html>.</p>
+ </body>
+<html>
