@@ -101,6 +101,6 @@
   <h2>April 5, 2025 — 21436</h2>
   <h3>Mimo</h3>
   <p>The doctype looks like an empty doctype tag with an empty html attribute: <! doctype html>.
-  <Attributes provide additional information to tags. You'll learn more about them in later chapters.</p>
+  Attributes provide additional information to tags. You'll learn more about them in later chapters.</p>
  </body>
 </html>
