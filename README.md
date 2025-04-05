@@ -92,3 +92,13 @@
   <p>The <strong>doctype</strong> tells the web browser what version of HTML we're using. Without it, the browser might not display the page correctly. <br>Since we're using the latest versio, we use <!doctype html>.</p>
  </body>
 <html>
+<! doctype html>
+<html>
+ <head>
+  <title>My Webpage</title>
+ </head>
+ <body>
+  <h2>April 5, 2025 — 21436</h2>
+  <h3>Mimo</h3>
+  <p>The doctype looks like an empty doctype tag with an empty html attribute: <! doctype html>.
+  <Attributes provide additional information to tags. You'll learn more about them in later chapters.><><><><><><><><>.<><
