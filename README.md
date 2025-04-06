@@ -104,3 +104,22 @@
   Attributes provide additional information to tags. You'll learn more about them in later chapters.</p>
  </body>
 </html>
+<!doctype html>
+<html>
+ <head>
+  <title>My Webpage</title>
+ </head>
+ <body>
+  <h2>April 6, 2025 — 21435</h2>
+  <h3>Mimo</h3>
+  <p>We'll now move on to making great- looking websites with the help of a styling language called CSS, short for Cascading Style Sheets.
+To make larger webpages more manageable, we can move our CSS to a style sheet, or a special file just for styling the webpage.</p>
+  <p>e.g,
+<! doctype html>
+<html>
+ <head>
+  <link rel = "Stylesheet" href = "Style.CSS">
+ </head>
+ <body>
+  <h1>Water Puns</h1>
+  <p><><><><><>
