@@ -112,7 +112,7 @@
  <body>
   <h2>April 6, 2025 — 21435</h2>
   <h3>Mimo</h3>
-  <p>We'll now move on to making great- looking websites with the help of a styling language called CSS, short for Cascading Style Sheets.
+  <p>We'll now move on to making great- looking websites with the help of a styling language called CSS, short for Cascading Style Sheets.<br>
 To make larger webpages more manageable, we can move our CSS to a style sheet, or a special file just for styling the webpage.</p>
   <p>e.g,
 <! doctype html>
@@ -122,4 +122,15 @@ To make larger webpages more manageable, we can move our CSS to a style sheet, o
  </head>
  <body>
   <h1>Water Puns</h1>
-  <p><><><><><>
+  <p>Why does water never laugh t jokes?It's not a fan of dry humor.</p>
+ </body>
+</html>
+<! doctype html>
+<html>
+ <head>
+  <title>My Webpage</title>
+ </head>
+ <body>
+  <h2>April 8, 2025 — 21433</h2>
+  <h3>Mimo</h3>
+  <p>To include a style sheet in an HTML file, we use the link element.(<link>) is a <><><><><><><><><><>
