@@ -133,4 +133,14 @@ To make larger webpages more manageable, we can move our CSS to a style sheet, o
  <body>
   <h2>April 8, 2025 — 21433</h2>
   <h3>Mimo</h3>
-  <p>To include a style sheet in an HTML file, we use the link element.(<link>) is a <><><><><><><><><><>
+  <p>To include a style sheet in an HTML file, we use the link element.(<link>) is a self closing empty element and it goes inside the head element.<br>. To know what kind of file to include, the opening link tag needs the "rel" attribute set using rel = "stylesheet". </p>
+<!doctype html>
+<html>
+ <head>
+  <link rel = "stylesheet">
+ </head>
+ <body>
+  <h1>Water Puns</h1>
+  <p>Why are rivers amazing roommates?They go with the flow.</p>
+ </body>
+</html>
