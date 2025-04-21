@@ -145,3 +145,6 @@ To make larger webpages more manageable, we can move our CSS to a style sheet, o
  </body>
 </html>
 <h2>Mimo (April 13, 2025 — 21428)</h2><br><p>Now, any declaration we add will apply to all <stong>p</strong> elements on the webpage. Add the <strong>color : blue ;</strong> declaration.<br>p {<br><color : blue ;><br>}</p><br>{color: blue ;}<p>When we add p { followed by color : blue ;, and then }, we create a css rule.</p>
+
+<h3>Mimo (April 17, 2025 — 21424)<h3>
+<p><><><<><><><><><><><><>
